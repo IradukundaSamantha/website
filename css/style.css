@@ -1,0 +1,260 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: aquamarine;
+    height: 100px;
+    width: auto;
+
+}
+.menu{
+    background-color: rgb(228, 167, 36);
+    height: 80px;
+    width: 100%;
+    display: flex;
+   
+
+}
+
+.menu a{
+   
+    color: rgb(4, 9, 14);
+    text-decoration: none;
+    list-style-type: none;
+    font-weight: 400;
+    margin: 60px;  
+    text-align: right; 
+    padding: 10px; 
+    
+}
+.navbar ul li{
+    padding: 20px;
+    margin: 10px;
+    list-style-type: none;
+      
+}
+
+.contacts{
+    display: flex;
+    position: relative;
+    top: 10px;
+    background-color: aqua;
+    height: 30px;
+    width: 5%;
+    border-radius: 25px;
+    margin: 20px;
+
+}
+.nana{
+    justify-content: flex-start;
+}
+.nav button{
+    background-color: blue;
+    height: 30px;
+    width: 70%;
+    border-radius: 15px;
+    margin: 20px;
+}
+.photo{
+    display: flex;
+    height: 500px;
+    width: 100%;
+    background-color: aquamarine;
+}
+.photo1{
+    height: 500px;
+    width: 50%;
+    background-color: aliceblue;
+
+}
+.photo2{
+    height: px;
+    width: 50%;
+    /* background-color: rgb(10, 47, 80); */
+
+}
+img{
+    width: 100%;
+    height: 500px;
+    
+}
+h1{
+    text-align: center;
+    margin: 30px;
+}
+h2{
+    text-align: center;
+    margin: 30px;
+}
+button{
+    background-color: blue;
+    border-radius: 20px;
+    margin-left: 200px;
+}
+.logos{
+    background-color: rgb(7, 136, 250);
+    height: 400px;
+    width: 100%;
+    /* padding-top: 30%; */
+    margin-top: 5%;
+    border-radius: 40px;
+}
+.logo1{
+  
+    height: 200px;
+    width: 25%;
+}
+.logo1 img{
+    height: 100px;
+    width: 100%;
+}
+
+.logo2{
+  
+    height: 200px;
+    width: 25%;
+}
+.logo2 img{
+    height: 100px;
+    width: 100%;
+}
+.logo3{
+    
+    height: 200px;
+    width: 25%;
+}
+.logo3 img{
+    height: 100px;
+    width: 100%;
+}
+.logo4{
+    
+    height: 200px;
+    width: 25%;
+}
+.logo4 img{
+    height: 100px;
+    width: 100%;
+}
+.logo5{
+   
+    height: 200px;
+    width: 25%;
+}
+.logo5 img{
+    height: 100px;
+    width: 100%;
+}
+.picture1{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.picture2{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.samantha{
+    width: 600px;
+    height: 600px;
+    background-color: rgb(189, 197, 197);
+    position: relative;
+    left: 400px;
+    border-radius: 30px;
+    bottom: 630px;
+}
+.form{
+   height: 600px;
+   width: 900px;
+   /* background-color: white; */
+   position: relative;
+   left: 50px;
+}
+label{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 50px;
+    top: 30px;
+}
+input{
+   
+    width: 200px;
+    padding: 5px;
+    border-radius: 5px;
+    position: relative;
+    left: 50px;
+    top: 30px;
+    border: 1px solid rgb(85, 85, 85);
+}
+textarea{
+    width: 250px;
+    height: 50px;
+    position: relative;
+    left: 50px;
+    top: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.form h1{
+    text-align: center;
+    font-size: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 20px;
+}
+.send{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 5px;
+    width: 80px;
+    height: 30px;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 0.5px;
+    position: relative;
+    top: 60px;
+    right: 320px;
+    border: none;
+   
+}
+.send:hover{
+    background-color: white;
+    color: black;
+    transition: 1s;
+    border: 1px solid black;
+}
+.image{
+    height: 600px;
+    width: 40%;
+    
+}
+.pic{
+    height: 600px;
+    opacity: 1;
+    position: relative;
+    right: 15px;
+    border-radius: 30px;
+}
+img .loca{
+    height: 40px;
+}
+.hello{
+    height: 600px;
+    width: 40%;
+    
+
+}
+.button{
+background-color: aqua;
+border-radius: 5px; 
+border: 1px;
+}
+
